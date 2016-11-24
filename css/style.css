@@ -1,0 +1,125 @@
+@charset "UTF-8";
+.airbnb {
+  float: left; }
+
+.element a, .airbnb a {
+  justify-content: space-between;
+  justify-content: flex-end;
+  float: right;
+  margin: 40px;
+  /*font-size:$font-size;*/
+  color: blue;
+  display: inline;
+  margin-top: 0px; }
+
+.ou {
+  box-sizing: border-box;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: 1px solid gray;
+  width: 300px;
+  height: 70px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px; }
+
+.quand {
+  box-sizing: border-box;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: 1px solid gray;
+  width: 400px;
+  height: 70px; }
+
+.overflow {
+  background-image: url("http://lorempicsum.com/rio/1890/900/4");
+  clear: left;
+  width: 100%;
+  padding: 200px;
+  padding-top: 50px;
+  box-sizing: border-box;
+  height: 500px; }
+
+.emv {
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0; }
+
+.ptitre {
+  text-align: center;
+  margin: 0; }
+
+.cont input {
+  width: 200px;
+  height: 50px;
+  box-sizing: border-box; }
+
+.voyageur {
+  box-sizing: border-box;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: 1px solid gray;
+  width: 300px;
+  height: 70px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px; }
+
+.recherche {
+  background-color: pink;
+  height: 30px;
+  border-radius: 5px; }
+
+.cont {
+  display: flex;
+  width: 600px;
+  margin: 0em 0em 0em 30em; }
+
+.experience {
+  margin: 0em 0em 0em 4em; }
+
+.experience img {
+  display: inline;
+  margin: 20px; }
+
+.logement img {
+  margin: 10px; }
+
+.logement {
+  margin: 0em 0em 0em 3em; }
+
+.destination img {
+  display: flex;
+  display: inline;
+  margin: 10px; }
+
+.destination {
+  margin: 0em 0em 0em 6em; }
+
+.ul {
+  display: flex; }
+
+.langue option  {
+  height: 100px;
+  width: 200px; }
+
+.langue {
+  margin: 7em 10em 0em 10em; }
+
+.diver {
+  display: flex;
+  margin: 1em 0em 0em 0em; }
+
+.diver ul {
+  margin: 0em 10em 0em 5em; }
+
+.icone a, i {
+  float: right;
+  margin: 10px; }
+
+.icone {
+  margin-top: 40px;
+  border-top: 1px solid gray; }
+
+footer {
+  border-top: 1px solid gray; }
+
+/*# sourceMappingURL=style.css.map */
